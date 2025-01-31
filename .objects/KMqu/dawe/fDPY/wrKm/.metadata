@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text - Weather summary",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wrKm_ldhjk6c4hIhqu0ORg",
+  "Reference": "pZiNRYKkz0KgJYIlVCILlg/wrKm_ldhjk6c4hIhqu0ORg",
+  "ParentRef": "pZiNRYKkz0KgJYIlVCILlg/fDPYakPYBE2sWFuwi7Ci3g",
+  "Created": "2025-01-29T14:00:47.351628Z",
+  "Updated": "2025-01-29T14:00:47.351628Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

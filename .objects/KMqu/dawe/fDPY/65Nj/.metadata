@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text - Date and time",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "65NjSU-Y8USnQL4LoN-njg",
+  "Reference": "pZiNRYKkz0KgJYIlVCILlg/65NjSU-Y8USnQL4LoN-njg",
+  "ParentRef": "pZiNRYKkz0KgJYIlVCILlg/fDPYakPYBE2sWFuwi7Ci3g",
+  "Created": "2025-01-29T14:00:24.6659622Z",
+  "Updated": "2025-01-29T14:00:24.6659622Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

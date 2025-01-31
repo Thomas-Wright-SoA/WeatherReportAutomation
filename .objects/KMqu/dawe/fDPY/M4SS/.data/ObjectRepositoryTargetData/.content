@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QoHgZdSZzEqM6ou8RBfypA" Reference="pZiNRYKkz0KgJYIlVCILlg/M4SS-QdVm02IUMlkXdi7HA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="3d790533-6f03-48ae-8635-cfb9b00986b2" CvTextArea="236, 193, 1083, 13" CvTextArgument="All Maps News Images Videos Web Books More Tools" CvType="Text" DesignTimeRectangle="238, 176, 1121, 45" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='qogDvd' parentid='hdtb-sc' tag='DIV' type='' aaname='' check:innerText='All&amp;#xA;Maps&amp;#xA;News&amp;#xA;Images&amp;#xA;Videos&amp;#xA;Web&amp;#xA;Books&amp;#xA;More&amp;#xA;Tools' /&gt;" Guid="9f92847d-dab4-44d4-938a-d79557e02dd2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='manchester - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7fca0c521a73fdc1cd8735a5c2451edd.png" xmlns="">0xliVBzZqSk6XQijFNO1guA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3aunXfAEa0Cb3PH2zZBYig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="dd02559c-bf38-4dff-aa8c-241fea433c55" DesignTimeRectangle="564, 344, 326, 20" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_dts' tag='DIV' type='' class='wob_dts' /&gt;" Guid="b6905f73-49d9-48ef-9fda-84b55dde70a2" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='manchester weather - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d283a038866c13375228f8b2dc2ea910.png" xmlns="">0nDIvBhDa9UWNS8eeTC3XRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

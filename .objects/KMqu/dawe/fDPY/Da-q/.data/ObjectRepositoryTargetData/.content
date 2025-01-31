@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Osr4QHK9-UCKWcOIlMbt-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="dd02559c-bf38-4dff-aa8c-241fea433c55" DesignTimeRectangle="564, 318, 326, 26" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_loc' tag='DIV' type='' class='wob_loc*' aaname='Weather' check:innerText='Weather' /&gt;" Guid="0f618378-5130-4099-b1fc-b5bedbcf3613" ScopeSelectorArgument="&lt;html app='chrome.exe' title='manchester weather - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3c3f6c2b5101f3bf4714ccafcba036d9.png" xmlns="">0Gff2b-rBVUCsu2SWju8low</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
