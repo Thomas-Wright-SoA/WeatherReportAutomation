@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sCNHB7ZZpEuwCCYM-rqzYw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" DesignTimeRectangle="1882, 8, 46, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Google - Google Chrome' role='pane' /&gt;&lt;ctrl name='Close' role='push button' /&gt;" Guid="ea0db028-ac39-4faf-9b40-629f4268cc8d" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Google - Google Chrome' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dc61b9434bdb46ca859c55dc24ac59b8.png" xmlns="">05Q_6b8OXO0msX5YaYPgnSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
